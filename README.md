@@ -1,5 +1,5 @@
 # INAV dev builds
 
-This repo hosts releases with pre-release inav firmware.
+This repository hosts pre-release builds of inav firmware.
 
 For issues, use the iNavFlight/inav repository.
